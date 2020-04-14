@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "game.h": "c",
+        "sdl_render.h": "c",
+        "event_manager.h": "c",
+        "render_manager.h": "c"
+    }
+}
